@@ -1,6 +1,6 @@
 name = "milad1996"
 main = "_worker.js"
-compatibility_date = "2026-06-01"
+compatibility_date = "2026-07-01"
 keep_vars = true
 
 #[[kv_namespaces]]
